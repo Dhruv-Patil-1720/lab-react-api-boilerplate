@@ -1,0 +1,23 @@
+body{
+    margin: 0%;
+    padding: 0%;
+}
+.container{
+    padding: 15px;
+}
+.books{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-bottom: 3px solid black;
+}
+.About{
+    width: 1000px;
+}
+.intro{
+    width: 500px;
+
+}
+.intro img{
+    width: 300px;
+}
